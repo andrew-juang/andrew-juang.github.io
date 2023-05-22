@@ -2,96 +2,199 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Andrew Juang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th March 2004
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Arts in Statistics and Computer Science
+      institution: Boston University
+      year: 2022 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "GPA: 4.00"
+        - title: Relevant Coursework.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - CS320 (Concepts of Programming Languages)
+          - CS210 (Computer Systems)
+          - CS112 (Introduction to Data Structures & Algorithms)
+          - CS132 (Linear Algebra)
+          - MA225 (Multivariate Calculus)
+          - CS131 (Discrete Mathematics)
+    - title: High School Diploma
+      institution: Stuyvesant High School
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
+        - title: "GPA: 4.00"
+          contents:
+          - 96.21/100 - Unweighted
+        - title: Relevant Coursework.
+          contents:
+          - Software Development
+          - Systems-Level Programming
+          - Computer Graphics
+          - AP Computer Science A
+          - Multivariate Calculus
+          - AP BC Calculus
+          - "AP Physics C & Electricity & Magnetism"
+          - "AP Physics C & Mechanics"
+          - AP Chemistry
+          - AP English Language & Composition
+          - AP English Literature & Composition
+          - AP US Government & Politics
+          - AP World History
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Incoming Software Engineer Intern
+      institution: Yahoo
+      year: Summer 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Data Platforms Team
+
+    - title: Software Engineer Intern
+      institution: Numeraxial LLC.
+      year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Constructed a web user interface that helps investors manage portfolios by utilizing React and developing the Figma wireframe
+        - Assisted with quantitative risk analysis by integrating MongoDB Change Streams with Socket.IO
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Web Development Intern
+      institution: Spark Inc.
+      year: Summer 2022
       description:
+        - Upgraded SEO techniques for the Slogan Slingers website by improving keyword targeting, disavowing backlinks, updating XML sitemaps, and upgrading the site’s security
+        - Worked with the digital marketing, field marketing, and product marketing teams to create and improve websites
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Lifeguard
+      institution: Central Queens YMWHA
+      year: Summer 2018
+      description:
+        - Assisted swim instructors with lessons and watched over the safety of students 
+        - Coordinated communication among workers/members of the aquatics center by taking phone calls and organizing emails
 
-- title: Open Source Projects
+- title: Awards & Honors
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2021, 2022
+      items: 
+        - <b>2x American Invitational Mathematics Examination Qualifier</b>
+        - Achieve a score in the top 5% nationally (of ~50,000 students) of American Mathematics Competition test takers or achieve a score of 100 or more out of 150. 
+    - year: 2022
+      items: 
+        - <b>Boston University Presidential Scholarship</b>
+        - Each year, the Board of Admissions awards the Presidential Scholarship to our incoming first-year students who demonstrate exceptional academic achievement. In addition to being among our most academically talented students, Presidential Scholars demonstrate excellence beyond the classroom and are leaders in their schools and communities. This $25,000 tuition scholarship is renewable for up to four years of undergraduate study at BU.
+    - year: 2022
+      items: 
+        - <b>National Merit Boston University Scholarship</b>
+        - Of 1.5 million entrants, 16,000 with the highest PSAT/NMQST Selection index scores are recognized as semifinalists, designated on a per-state basis.
+    - year: 2022, 2023
+      items:
+        - <b>Dean's List</b>
+        - Dean's List is an honor awarded to those CAS students who earned at least 15 academic credits and had a semester GPI of 3.5 or higher.
+    - year: 2021, 2022
+      items: 
+        - <b>USA Computing Olympiad Silver Division Qualifer</b>
+        - Participants who scored 800 out of 1000 possible points in the Bronze division were promoted to the Silver division (1218 of the participants from the USA). There are a total of 5400 participants of whom 4173 were pre-college participants.
+    - year: 2021
+      items: 
+        - <b>3rd Place at Cornell University High School Programming Contest</b>
+        - Competitive Programming team contest open to all students who live in New York, New Jersey, Connecticut, or Pennsylvania. The top 9 teams are recognized as winners.
+    - year: 2022
+      items: 
+        - <b>AP Scholar with Distinction</b>
+        - Granted to students whose average AP exam score is at least 3.5 on all AP Exams taken, and has scores of three or higher on five or more APs. 
+    - year: 2022
+      items: 
+        - <b>Mu Alpha Theta Honor Society</b>
+        - National Honor Society for Mathematics. To qualify you must be at least a Sophomore, you must have completed Algebra 2, and have a 92+ Honors Math Average or 94+ Regular Math Average. 
 
-- title: Honors and Awards
+- title: Extracurricular Activities
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Technology and Finance Team Member
+      institution: Phi Chi Theta
+      year: Jan 2023 - Present
+      description:
+        - Phi Chi Theta Zeta Chapter is a professional fraternity at Boston University with a focus on business innovation including social enterprise, tech, and entrepreneurship.
 
-- title: Academic Interests
+    - title: Member
+      institution: BU Climbing Club
+      year: Sep 2022 - Present
+      description:
+        - The Boston University Climbing Club is a recreational and competitive social group that encourages student participation in all aspects of rock climbing.
+
+    - title: IT Department Director
+      institution: Stuyvesant Student Government
+      year: Sep 2020 - Jun 2022
+      description:
+        - Represented the student body’s technological needs in weekly cabinet meetings by directing the development of the Senior/Junior and teacher information website
+        - Updated stuyactivities.org’s API and frontend using GraphQL and React
+
+    - title: Teaching Assistant
+      institution: Stuyvesant Math Team
+      year: Sep 2018 - Jun 2022
+      description:
+        - Served as teacher assistant and updated the teacher and students with progress reports
+        - Taught classes of 30+ incoming Freshmen math team problem-solving techniques for two summers
+
+    - title: Features Editor
+      institution: Stuyvesant Math & CS Research
+      year: Sep 2018 - Jun 2022
+      description:
+        - Published articles highlighting Stuyvesant’s math and  science accomplishments for Stuyvesant’s 65+ year old annual student publication
+        - Acted as a liaison between students and teachers to inform students of the recent developments in Stuyvesant’s math and computer science departments
+    
+    - title: Member
+      institution: NYC Math Team
+      year: Sep 2018 - Jun 2022
+      description:
+        - Selected to represent NYC in national contests like NYSML and HMMT to maintain New York City’s leading position in Mathematics competitions
+        - Facilitated and organized communication among teammates
+
+    - title: Mentee
+      institution: Google Mentorship Program
+      year: Jan 2021 - Jun 2021
+      description:
+        - Found best paths given certain geographical coordinates by image processing a topographical map to help with planning and creating paths in the wilderness as a part of the Google NYC Mentorship Program
+        - Developed a graph theory algorithm that takes into account terrain slope, distance, and water using my knowledge of BFS, DFS, and Dijkstra’s Algorithm
+
+    - title: Member
+      institution: Competitive Coding Club
+      year: Sep 2019 - Jun 2022
+    
+    - title: Tutor
+      institution: Computer Science Dojo
+      year: Sep 2021 - Jun 2022
+      description:
+        - Tutored underclassmen on their Python, Java, Racket, NetLogo projects/homework
+        - Communicated with computer science department to identify common struggles students face
+
+    - title: Member
+      institution: Flushing Flyers YMCA / Stuyvesant Boys Varsity Swimming
+      year: Sep 2014 - Jun 2021
+      description:
+        - Collaborated with head coach in creating swim competition lineups, organized practices, oversaw fundraising for apparel, and motivated teammates
+        - Committed over 1000+ hours for practices, training, and competitions
+
+
+    
+
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, HTML/CSS/JavaScript, C/C++, Java, SQL
+    - title: Computer Software
       items:
-        - Description 1.
-        - Description 2.
+        - Git/Github, Microsoft Office Suite, LaTeX, iMovie
 
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Rock Climbing, Weight Lifting, Photography, Fashion
