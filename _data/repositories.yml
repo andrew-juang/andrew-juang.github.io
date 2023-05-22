@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - andrew1j
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Andrew1J/TypeRacer
+  - Topographically-Best-Path/TopoTraversal
+  - Andrew1J/DASH
+  - alvinli04/APCSFinalProject
+  # - Lucas-Lee11/P04
