@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Andrew and I am pursuing a BA in Computer Science at Boston University. I am currently interested in software engineering, data science, trading, and entrepreneurship. I love helping others and am driven to create social impact with Computer Science. Feel free to reach out to me about anything!
+Hello! My name is Andrew and I am currently pursuing a BA in Computer Science at Boston University. This is my personal website which I created to share my journey, passions, and insights into who I am. It is my hope that as you navigate through these pages, you will gain a deeper understanding of who I am as a person—perhaps even find some sort of connection to me. I am always eager to talk to like-minded individuals, so feel free to reach out to me about anything!

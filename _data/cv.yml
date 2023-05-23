@@ -70,6 +70,13 @@
         - Upgraded SEO techniques for the Slogan Slingers website by improving keyword targeting, disavowing backlinks, updating XML sitemaps, and upgrading the site’s security
         - Worked with the digital marketing, field marketing, and product marketing teams to create and improve websites
 
+    - title: Mentee
+      institution: Google
+      year: Jan 2021 - Jun 2021
+      description:
+        - Found best paths given certain geographical coordinates by image processing a topographical map to help with planning and creating paths in the wilderness as a part of the Google NYC Mentorship Program
+        - Developed a graph theory algorithm that takes into account terrain slope, distance, and water using my knowledge of BFS, DFS, and Dijkstra’s Algorithm
+
     - title: Lifeguard
       institution: Central Queens YMWHA
       year: Summer 2018
@@ -155,13 +162,6 @@
       description:
         - Selected to represent NYC in national contests like NYSML and HMMT to maintain New York City’s leading position in Mathematics competitions
         - Facilitated and organized communication among teammates
-
-    - title: Mentee
-      institution: Google Mentorship Program
-      year: Jan 2021 - Jun 2021
-      description:
-        - Found best paths given certain geographical coordinates by image processing a topographical map to help with planning and creating paths in the wilderness as a part of the Google NYC Mentorship Program
-        - Developed a graph theory algorithm that takes into account terrain slope, distance, and water using my knowledge of BFS, DFS, and Dijkstra’s Algorithm
 
     - title: Member
       institution: Competitive Coding Club
