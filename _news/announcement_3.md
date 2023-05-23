@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm interning at Yahoo at a part of the Data Platforms team! :bar_chart: :grin:
+I'm interning at Yahoo as a part of the Data Platforms team! :bar_chart: :grin:
